@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Dariorab/Dariorab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,9 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Dario</h1>
-<h3 align="center">A</h3>
+<h3 align="center">AI Engineer | Master's in Artificial Intelligence</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dariorab https://github.com/Master-Degree-Projects](https://github.com/Dariorab https://github.com/Master-Degree-Projects)
+- 👨‍💻 All of my projects are available at:
+  -  All of my personal projects are available on my [GitHub profile](https://github.com/DarioRab).
+  -  Projects related to my master's degree are available within a team space on the [Master's Program GitHub organization](https://github.com/Master-Degree-Projects).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
